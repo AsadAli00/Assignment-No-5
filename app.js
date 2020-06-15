@@ -77,6 +77,39 @@ document.write("Yah! I can write HTML content through JavaScript");
 
 
 
+//chapter No 3
+
+//task no 1
+
+var age = 15;
+
+alert("I am"+age+"Year Old");
+
+//task no 2
+
+var visitor = 14;
+alert("You have Visited This Site"+visitor+"times");
+
+//task no 3
+
+var birthyear = 1998;
+document.write("My birth year is"+birthyear+"\nData type of my declared variable is number");
+
+//task no 4
+
+var name="Jhon Doe";
+var product="T-Shirt";
+var Quantity=5;
+
+alert(name+"ordered"+Quantity+product+" on XYZ Clothing store");
+
+
+
+
+
+
+
+
 
 
 
